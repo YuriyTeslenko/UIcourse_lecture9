@@ -1,6 +1,6 @@
 
 function Traverse(name){
-	var inohash=name.indexOf(".")++;
+	var inohash=name.indexOf("#")++;
 	var inodot=name.indexOf(".")++;
 
 	if inodot=1{
